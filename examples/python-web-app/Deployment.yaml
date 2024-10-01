@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: jas09563/python-sample-app-demo:v2
+        image: jas09563/python-sample-app-demo:v1
         ports:
         - containerPort: 8000
